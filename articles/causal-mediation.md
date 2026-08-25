@@ -45,7 +45,7 @@ dissect(data_diabetes_mediation)
 | diabetes_pedigree | numeric | 0% | 352 | - | compatible | Numeric variable can be used as continuous. |
 | Screening aid only; review coding, missingness, sparse levels, and study context before modeling. |  |  |  |  |  |  |
 
-Dataset dissection before regression {.table .cl-a976a150
+Dataset dissection before regression {.table .cl-f8160268
 quarto-disable-processing="true"}
 
 ## Logistic Outcome
